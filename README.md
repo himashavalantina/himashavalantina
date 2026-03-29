@@ -22,7 +22,7 @@ I'm a **full-stack developer** specializing in building **cloud-native applicati
 - 🌱 **Learning:** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="16" height="16" /> **AI/ML** | <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="16" height="16" /> **K8s** | Cloud Architectures
 - 💡 **Interested in:** API design, system architecture, and performance optimization
 - 📫 **Reach me:** Himashavalantina55@gmail.com
-- 🎯 **2024 Goals:** Contribute to open-source projects and master cloud-native development
+- 🎯 **2026 Goals:** Contribute to open-source projects and master cloud-native development
 
 ---
 
