@@ -20,7 +20,7 @@ I'm a **full-stack developer** specializing in building **cloud-native applicati
 
 - 🔭 **Currently:** Building microservices with <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="16" height="16" /> **Spring Boot** and <img src="https://ballerina.io/images/ballerina-logo.svg" alt="Ballerina" width="16" height="16" /> **Ballerina**
 - 🌱 **Learning:** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="16" height="16" /> **AI/ML** | <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="16" height="16" /> **K8s** | Cloud Architectures
-- 💡 **Interested in:** API design, system architecture, and performance optimization
+- 💡 **Interested in:** API design, system architecture, and performance optimization and machine learning
 - 📫 **Reach me:** Himashavalantina55@gmail.com
 - 🎯 **2026 Goals:** Contribute to open-source projects and master cloud-native development
 
