@@ -64,7 +64,7 @@
 Architected an end-to-end educational platform using the **Gemini 1.5 Flash API** and **Node.js** to transform user prompts into structured, curriculum-aligned study modules with a high-performance React frontend.
 
 ### 📊 **InsightERP — AI-Powered ERP for SMEs**
-> *React, .NET, AzureSQL, Docker, ML.NET* | *Ongoing*
+> *React, .NET, AzureSQL, Docker, ML.NET* | *March 2026*
 
 Microservices ERP with **churn prediction**, **customer segmentation**, automated reporting, and CI/CD pipelines. Built with .NET microservices architecture, containerized with Docker, and deployed on Azure.
 
@@ -85,7 +85,7 @@ Engineered a custom **Domain Specific Language (DSL)** from scratch using C++ an
 
 
 ### 💓 **Byte to Beat: AI-Powered Cardiac Risk Detection**
-> *Python, XGBoost, Random Forest, SHAP, Optuna, Pandas, NumPy* | *2025*
+> *Python, XGBoost, Random Forest, SHAP, Optuna, Pandas, NumPy* | *2026*
 
 **87.5% accuracy** clinical ML system integrating multi-source cardiac data for early CVD detection.
 
