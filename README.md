@@ -1,169 +1,231 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=70&lines=Hi,+I'm+Himasha+Valantina;Full-Stack+Developer;Clean+Code+Advocate" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=70&lines=Hi,+I'm+Himasha+Valantina;BSc+(Hons)+CS+Undergraduate;AI%2FML+Enthusiast;Full-Stack+Developer" alt="Typing animation" />
 </h1>
 
-
+<p align="center">
+  <i>✨ Curious about AI | Building things that matter | Always leveling up</i>
+</p>
 
 ---
 
-## 👩‍💻 About Me
+## 📌 Quick Navigation
+
+<p align="center">
+  <a href="#-about-me"><img src="https://img.shields.io/badge/-About_Me-58A6FF?style=flat-square&logo=readthedocs&logoColor=white" /></a>
+  <a href="#-technical-projects"><img src="https://img.shields.io/badge/-Projects-238636?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="#-tech-stack"><img src="https://img.shields.io/badge/-Tech_Stack-DB61A2?style=flat-square&logo=stackshare&logoColor=white" /></a>
+  <a href="#-achievements"><img src="https://img.shields.io/badge/-Achievements-FF7B72?style=flat-square&logo=trophy&logoColor=white" /></a>
+  <a href="#-certifications"><img src="https://img.shields.io/badge/-Certifications-FFA657?style=flat-square&logo=academic&logoColor=white" /></a>
+  <a href="#-connect-with-me"><img src="https://img.shields.io/badge/-Connect-1DA1F2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+</p>
+
+---
+
+## 🧠 About Me
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/code.gif" alt="coding gif" width="400" />
 </div>
 
-<p align="center">
-  <i>✨ Passionate about creating elegant solutions to complex problems ✨</i>
-</p>
-
-I'm a **full-stack developer** specializing in building **cloud-native applications** and **distributed systems**. With a strong foundation in both frontend and backend technologies, I focus on creating maintainable, scalable, and efficient solutions.
-
-- 🔭 **Currently:** Building microservices with <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="16" height="16" /> **Spring Boot** and <img src="https://ballerina.io/images/ballerina-logo.svg" alt="Ballerina" width="16" height="16" /> **Ballerina**
-- 🌱 **Learning:** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="16" height="16" /> **AI/ML** | <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="16" height="16" /> **K8s** | Cloud Architectures
-- 💡 **Interested in:** API design, system architecture, and performance optimization and machine learning
-- 📫 **Reach me:** Himashavalantina55@gmail.com
-- 🎯 **2026 Goals:** Contribute to open-source projects and master cloud-native development
+- 🎓 **BSc (Hons) Computer Science Undergraduate** @ SLIIT (2023 – Present)
+- 🤖 **AI/ML Enthusiast** — NLP pipelines, LLMs (Gemini API), Prompt Engineering, Model Evaluation
+- 💻 **Full-Stack Developer:** React, Node.js, Java, Spring Boot, .NET, Python, Ballerina
+- ⚡ **Parallel Computing Enthusiast** — Multi-threading & distributed computing for performance
+- 📊 **Data-Driven:** Proficient in Python with statistics, data workflows, APIs, and analytics
+- 🎯 **2026 Goals:** Contribute to open-source projects and build production-grade ML systems
+- 📫 **Reach me:** himashavalantina55@gmail.com
 
 ---
 
-## 🌐 Connect With Me
+## 🔗 Check Out My Work
 
 <p align="center">
-  <!-- LinkedIn with animation -->
-  <a href="https://linkedin.com/in/himasha-valantina" target="_blank" style="display: inline-block; animation: bounce 2s infinite;">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
+  <a href="https://himashavalantina.github.io/HimashaMinoliValantina/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
   </a>
-  &nbsp;&nbsp;&nbsp;
-  
-  <!-- Discord with animation -->
-  <a href="https://discord.gg/another_gurl" target="_blank" style="display: inline-block; animation: bounce 2s infinite 0.5s;">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="40" width="40" />
+  <a href="https://www.kaggle.com/himashavalantina" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
   </a>
-  &nbsp;&nbsp;&nbsp;
-  
-  <!-- GitHub with animation -->
-  <a href="https://github.com/himashavalantina" target="_blank" style="display: inline-block; animation: bounce 2s infinite 1s;">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="40" width="40" />
+  <a href="https://www.linkedin.com/in/himasha-valantina-798a9833b" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/himashavalantina" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🏗️ Technical Projects
 
-### 🔥 **Backend Development**
+### 🤖 **VibeWrite (AI-Powered Learning Platform)**
+> *Gemini API, React, Node.js, Tailwind CSS* | *Jan 2026*
+
+Architected an end-to-end educational platform using the **Gemini 1.5 Flash API** and **Node.js** to transform user prompts into structured, curriculum-aligned study modules with a high-performance React frontend.
+
+### 📊 **InsightERP — AI-Powered ERP for SMEs**
+> *React, .NET, AzureSQL, Docker, ML.NET* | *Ongoing*
+
+Microservices ERP with **churn prediction**, **customer segmentation**, automated reporting, and CI/CD pipelines. Built with .NET microservices architecture, containerized with Docker, and deployed on Azure.
+
+### 💊 **Health Vault**
+> *Ballerina, React, TypeScript, Vite* | *Aug 2025*
+
+Engineered a network-aware backend using **Ballerina** to power a digital "Child Health Development Record" system. Built a type-safe, high-performance React/TypeScript interface to track vaccination schedules and growth metrics.
+
+### 🏆 **Serango (AdaptIQ Hackathon Finalist)**
+> *Java Spring Boot, MongoDB* | *Oct 2025*
+
+**Top 10 Finalist** (out of 40+ teams) in a 22-hour onsite coding challenge. Rapidly prototyped a functional MVP that successfully adapted to 8 dynamic constraints introduced during the competition.
+
+### 🔧 **TestLang Compiler (Custom DSL for Automation)**
+> *C++, Lex, Yacc, Compiler Design* | *Dec 2025*
+
+Engineered a custom **Domain Specific Language (DSL)** from scratch using C++ and Lex/Yacc to streamline automated test script generation. Architected the complete compiler pipeline including lexical analysis, parsing, and AST generation.
+
+
+### 💓 **Byte to Beat: AI-Powered Cardiac Risk Detection**
+> *Python, XGBoost, Random Forest, SHAP, Optuna, Pandas, NumPy* | *2025*
+
+**87.5% accuracy** clinical ML system integrating multi-source cardiac data for early CVD detection.
+
+- **Ensemble Strategy:** Built Voting Classifier (XGBoost + Random Forest) achieving stable 87.5% accuracy with 0.90 precision
+- **Big Data Integration:** Scaled from 300-row clinical dataset to 70,000-row unified cohort
+---
+
+
+## 🏆 Achievements
+
+| Achievement | Recognition |
+|-------------|-------------|
+| **AdaptIQ Hackathon (IIT)** | Top 10 Finalist — Selected for 22-hour physical development challenge (Team: Nybble) |
+| **Innovate with Ballerina 2025** | Winner (Social Media Contest) — Organized by IEEE University of Moratuwa & WSO2 (Team: Ballerina Cappuccina) |
+| **Code Quest v1.0** | Finalist (Top 10) — IEEE Sabaragamuwa University (Team: ObscurusSquad) |
+| **Byte to Beat** | Clinical ML system with 87.5% accuracy for cardiac risk detection |
+
+---
+
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=himashavalantina&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&include_all_commits=true&count_private=true&ring_color=58A6FF&border_color=30363D" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himashavalantina&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8&border_color=30363D" alt="Top Languages" />
+</div>
+
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=himashavalantina&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=C9D1D9" alt="GitHub Streak" />
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=himashavalantina&theme=github-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=58A6FF&title_color=FFFFFF" alt="Activity Graph" width="100%" />
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 **Languages & Frameworks**
 
 <p align="center">
-  <!-- Ballerina with hover effect -->
-  <a href="https://ballerina.io/" target="_blank">
-    <img src="https://ballerina.io/images/ballerina-logo.svg" alt="Ballerina" width="55" height="55" style="transition: transform 0.3s; display: inline-block; margin: 5px;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-  </a>
-  
-  <!-- Java -->
-  <a href="https://www.java.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="55" height="55" style="transition: transform 0.3s; display: inline-block; margin: 5px;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-  </a>
-  
-  <!-- Spring -->
-  <a href="https://spring.io/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="55" height="55" style="transition: transform 0.3s; display: inline-block; margin: 5px;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-  </a>
-  
-  <!-- Node.js -->
-  <a href="https://nodejs.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="60" height="60" style="transition: transform 0.3s; display: inline-block; margin: 5px;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-  </a>
-  
-  <!-- Python -->
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="55" height="55" style="transition: transform 0.3s; display: inline-block; margin: 5px;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-  </a>
-</p>
-
-### 💻 **Frontend Development**
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="55" height="55" style="animation: float 3s ease-in-out infinite; display: inline-block; margin: 5px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="55" height="55" style="animation: float 3s ease-in-out infinite 0.2s; display: inline-block; margin: 5px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="55" height="55" style="animation: float 3s ease-in-out infinite 0.4s; display: inline-block; margin: 5px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="55" height="55" style="animation: float 3s ease-in-out infinite 0.6s; display: inline-block; margin: 5px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="55" height="55" style="animation: float 3s ease-in-out infinite 0.8s; display: inline-block; margin: 5px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="Spring Boot" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt="Go" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50" />
+  <img src="https://www.vectorlogo.zone/logos/ballerinaio/ballerinaio-icon.svg" alt="Ballerina" width="50" height="50" />
 </p>
 
 ### 🗄️ **Databases**
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="55" height="55" style="transition: all 0.3s; display: inline-block; margin: 5px;" onmouseover="this.style.filter='drop-shadow(0 0 8px #4DB33D)'" onmouseout="this.style.filter='none'" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="60" height="60" style="transition: all 0.3s; display: inline-block; margin: 5px;" onmouseover="this.style.filter='drop-shadow(0 0 8px #00758F)'" onmouseout="this.style.filter='none'" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="SQL Server" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50" />
 </p>
 
-### 🛠️ **Tools & Others**
+### ☁️ **Cloud & DevOps**
 
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50" style="display: inline-block; margin: 5px;" />
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" height="50" style="display: inline-block; margin: 5px;" />
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="50" height="50" style="display: inline-block; margin: 5px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50" style="display: inline-block; margin: 5px;" />
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="50" height="50" style="display: inline-block; margin: 5px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original-wordmark.svg" alt="Azure" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" />
+</p>
+
+### 🔧 **Testing & Tools**
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-original-wordmark.svg" alt="JUnit" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="Selenium" width="40" height="40" />
+  <img src="https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white" alt="k6" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger" />
+</p>
+
+### 🤖 **ML & Data Science**
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="50" height="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="50" height="50" />
+  <img src="https://img.shields.io/badge/XGBoost-FF6F00?style=for-the-badge&logo=xgboost&logoColor=white" alt="XGBoost" />
+  <img src="https://img.shields.io/badge/SHAP-0052CC?style=for-the-badge&logo=shap&logoColor=white" alt="SHAP" />
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+## 🏆 GitHub Trophies
 
-<div align="center">
-  <!-- Stats Card with Glow -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=himashavalantina&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&include_all_commits=true&count_private=true&ring_color=58A6FF&border_color=30363D" alt="GitHub Stats" style="box-shadow: 0 0 20px rgba(88, 166, 255, 0.2); border-radius: 10px; margin: 10px;" />
-  
-  <!-- Languages Card with Glow -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himashavalantina&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8&border_color=30363D" alt="Top Languages" style="box-shadow: 0 0 20px rgba(88, 166, 255, 0.2); border-radius: 10px; margin: 10px;" />
-</div>
-
-<!-- Activity Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=himashavalantina&theme=github-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=58A6FF&title_color=FFFFFF" alt="Activity Graph" width="90%" style="border-radius: 10px; margin-top: 20px;" />
-</div>
-
-<!-- Trophy Section -->
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=himashavalantina&theme=github_dark&no-frame=true&row=2&column=3&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </div>
 
 ---
 
-## 🎯 Featured Projects
+## 📬 Connect With Me
 
-<div align="center">
-  
-  <!-- Project 1 Card -->
-  <div style="display: inline-block; margin: 10px; padding: 15px; border-radius: 10px; background: linear-gradient(145deg, #0d1117, #161b22); border: 1px solid #30363d; transition: transform 0.3s, box-shadow 0.3s;" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 10px 30px rgba(88, 166, 255, 0.2)'" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none'">
-    <h3>🔗 Microservices with Ballerina</h3>
-    <p>Cloud-native microservices architecture</p>
-    <img src="https://img.shields.io/badge/Ballerina-1.8.0-FF6A00?style=for-the-badge&logo=ballerina&logoColor=white" />
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  </div>
-  
-  <!-- Project 2 Card -->
-  <div style="display: inline-block; margin: 10px; padding: 15px; border-radius: 10px; background: linear-gradient(145deg, #0d1117, #161b22); border: 1px solid #30363d; transition: transform 0.3s, box-shadow 0.3s;" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 10px 30px rgba(88, 166, 255, 0.2)'" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none'">
-    <h3>⚡ Spring Boot REST API</h3>
-    <p>High-performance backend service</p>
-    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  </div>
-  
-</div>
+<p align="center">
+  <a href="mailto:himashavalantina55@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/himasha-valantina-798a9833b">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/himashavalantina">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.kaggle.com/himashavalantina">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  </a>
+  <a href="https://himashavalantina.github.io/HimashaMinoliValantina/">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
-## 🎯 Weekly Development Breakdown
 
 <div align="center">
-
-| Area | Focus Level | Progress |
-|------|-------------|----------|
-| **🌐 Frontend Development** | High Focus | <div style="background: linear-gradient(90deg, #58A6FF 40%, #1c2128 40%); height: 12px; border-radius: 6px; width: 300px; margin: 0 auto;"></div> **40%** |
-| **⚙️ Backend Development** | Primary Focus | <div style="background: linear-gradient(90deg, #238636 55%, #1c2128 45%); height: 12px; border-radius: 6px; width: 300px; margin: 0 auto;"></div> **55%** |
-| **🗄️ Database Design** | Moderate Focus | <div style="background: linear-gradient(90deg, #DB61A2 30%, #1c2128 70%); height: 12px; border-radius: 6px; width: 300px; margin: 0 auto;"></div> **30%** |
-| **🎨 UI/UX Design** | Learning Phase | <div style="background: linear-gradient(90deg, #FF7B72 20%, #1c2128 80%); height: 12px; border-radius: 6px; width: 300px; margin: 0 auto;"></div> **20%** |
-| **🔧 DevOps & Tools** | Growing Focus | <div style="background: linear-gradient(90deg, #FFA657 35%, #1c2128 65%); height: 12px; border-radius: 6px; width: 300px; margin: 0 auto;"></div> **35%** |
-
+  <img src="https://komarev.com/ghpvc/?username=himashavalantina&label=Profile%20Views&color=58A6FF&style=flat-square" alt="Profile Views" />
 </div>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&center=true&vCenter=true&width=500&height=45&lines=Thanks+for+visiting!;Open+to+internships+%26+collaborations;Let's+build+something+amazing+together!" alt="Closing Message" />
+</p>
