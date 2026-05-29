@@ -105,14 +105,18 @@ Engineered a custom **Domain Specific Language (DSL)** from scratch using C++ an
 
 ---
 
-
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=himashavalantina&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&include_all_commits=true&count_private=true&ring_color=58A6FF&border_color=30363D" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himashavalantina&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8&border_color=30363D" alt="Top Languages" />
+  <img src="https://img.shields.io/badge/Stats_Loading...-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" alt="Stats Loading" />
 </div>
 
+<!--
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=himashavalantina&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himashavalantina&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
+</div>
+-->
 
 ---
 
