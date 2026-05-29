@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <i>✨ Curious about AI | Building things that matter | Always leveling up</i>
+  <i>✨ Curious about AI  |  Building things that matter  |  Always leveling up</i>
 </p>
 
 ---
