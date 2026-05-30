@@ -104,17 +104,16 @@ Engineered a custom **Domain Specific Language (DSL)** from scratch using C++ an
 | **Byte to Beat** | Clinical ML system with 87.5% accuracy for cardiac risk detection |
 
 ---
-
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Stats_Loading...-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" alt="Stats Loading" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=himashavalantina&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himashavalantina&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8&hide=jupyter%20notebook" alt="Top Languages" />
 </div>
 
-
+<!-- Contribution Graph -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=himashavalantina&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himashavalantina&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=himashavalantina&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=58A6FF&title_color=FFFFFF" alt="Activity Graph" width="100%" />
 </div>
 
 
@@ -123,7 +122,7 @@ Engineered a custom **Domain Specific Language (DSL)** from scratch using C++ an
 ## 🔥 GitHub Streak
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=himashavalantina&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=C9D1D9" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=himashavalantina&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=C9D1D9" alt="GitHub Streak" />
 </div>
 
 ---
@@ -199,8 +198,7 @@ Engineered a custom **Domain Specific Language (DSL)** from scratch using C++ an
 ## 🏆 GitHub Achievements
 
 <div align="center">
-  <!-- Trophy images with fallback -->
-  <img src="https://github-profile-trophy.vercel.app/?username=himashavalantina&theme=github_dark&no-frame=true&row=2&column=3" alt="GitHub Trophies" onerror="this.src='https://img.shields.io/badge/Trophies_Loading...-0D1117?style=flat-square'" />
+  <img src="https://github-profile-trophy.vercel.app/?username=himashavalantina&theme=darkhub&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </div>
 
 ---
