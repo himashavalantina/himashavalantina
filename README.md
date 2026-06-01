@@ -14,7 +14,6 @@
   <a href="#-about-me"><img src="https://img.shields.io/badge/-About_Me-58A6FF?style=flat-square&logo=readthedocs&logoColor=white" /></a>
   <a href="#-technical-projects"><img src="https://img.shields.io/badge/-Projects-238636?style=flat-square&logo=github&logoColor=white" /></a>
   <a href="#-tech-stack"><img src="https://img.shields.io/badge/-Tech_Stack-DB61A2?style=flat-square&logo=stackshare&logoColor=white" /></a>
-  <a href="#-achievements"><img src="https://img.shields.io/badge/-Achievements-FF7B72?style=flat-square&logo=trophy&logoColor=white" /></a>
   <a href="#-certifications"><img src="https://img.shields.io/badge/-Certifications-FFA657?style=flat-square&logo=academic&logoColor=white" /></a>
   <a href="#-connect-with-me"><img src="https://img.shields.io/badge/-Connect-1DA1F2?style=flat-square&logo=linkedin&logoColor=white" /></a>
 </p>
@@ -107,8 +106,8 @@ Engineered a custom **Domain Specific Language (DSL)** from scratch using C++ an
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=himashavalantina&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himashavalantina&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8&hide=jupyter%20notebook" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=himashavalantina&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true&include_all_commits=true&cache_seconds=0" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himashavalantina&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8&cache_seconds=0" alt="Top Languages" />
 </div>
 
 <!-- Contribution Graph -->
@@ -118,11 +117,10 @@ Engineered a custom **Domain Specific Language (DSL)** from scratch using C++ an
 
 
 ---
-
 ## 🔥 GitHub Streak
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=himashavalantina&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=C9D1D9" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=himashavalantina&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=C9D1D9&cache_buster=1" alt="GitHub Streak" />
 </div>
 
 ---
@@ -192,14 +190,6 @@ Engineered a custom **Domain Specific Language (DSL)** from scratch using C++ an
   <img src="https://img.shields.io/badge/XGBoost-FF6F00?style=for-the-badge&logo=xgboost&logoColor=white" alt="XGBoost" />
   <img src="https://img.shields.io/badge/SHAP-0052CC?style=for-the-badge&logo=shap&logoColor=white" alt="SHAP" />
 </p>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=himashavalantina&theme=darkhub&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</div>
 
 ---
 
