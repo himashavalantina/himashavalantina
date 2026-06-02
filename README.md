@@ -119,9 +119,7 @@ Engineered a custom **Domain Specific Language (DSL)** from scratch using C++ an
 ---
 ## 🔥 GitHub Streak
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=himashavalantina&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=C9D1D9&cache_buster=1" alt="GitHub Streak" />
-</div>
+<img src="https://streak-stats.demolab.com?user=himashavalantina&theme=github-dark-blue&t=1748859001" />
 
 ---
 
